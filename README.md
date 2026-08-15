@@ -1,7 +1,7 @@
 # @yangeyu/deepseek-harness-tui
 
 > [!IMPORTANT]
-> Development has moved to [Yangeyu/deepseek-harness-community](https://github.com/Yangeyu/deepseek-harness-community). Install the maintained TUI with `npm install --global github:Yangeyu/deepseek-harness-community#v0.1.0`, then run `dsh-tui`. This repository and its original release remain available for historical installs.
+> Development has moved to [Yangeyu/deepseek-harness-community](https://github.com/Yangeyu/deepseek-harness-community). Install the maintained TUI with `npm install --global https://github.com/Yangeyu/deepseek-harness-community/releases/download/v0.1.1/yangeyu-dsh-tui-0.1.1.tgz`, then run `dsh-tui`. This repository and its original release remain available for historical installs.
 
 A keyboard-first, scrollback-preserving terminal client bundle for
 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness).
