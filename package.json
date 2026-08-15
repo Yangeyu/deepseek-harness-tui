@@ -96,7 +96,7 @@
     "@deepseek-ai/dsh-token-meter": ">=0.1.0-rc.5 <0.2.0",
     "@deepseek-ai/dsh-workspace": ">=0.1.0-rc.5 <0.2.0",
     "@types/node": "^22.20.0",
-    "oxlint": "1.76.0",
+    "oxlint": "1.78.0",
     "tsdown": "^0.22.2",
     "typescript": "^6.0.3",
     "vitest": "^4.1.8"
